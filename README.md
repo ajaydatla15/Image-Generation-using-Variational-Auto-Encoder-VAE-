@@ -24,11 +24,11 @@ In this project, I designed and trained a Variational Autoencoder (VAE) using th
 - Visualized latent space representations to understand how the model learned different facial attributes.
 
 ### Technologies & Tools Used:
-✅Python, TensorFlow/PyTorch, Keras
-✅OpenCV, NumPy, Matplotlib, Seaborn
-✅CNN-based Encoder-Decoder architecture
-✅KL-Divergence & Reconstruction Loss
-✅CelebA Dataset for real-world facial features
+✅ Python, TensorFlow/PyTorch, Keras
+✅ OpenCV, NumPy, Matplotlib, Seaborn
+✅ CNN-based Encoder-Decoder architecture
+✅ KL-Divergence & Reconstruction Loss
+✅ CelebA Dataset for real-world facial features
 
 ### Outcome & Impact:
 - Successfully trained a VAE capable of generating highly realistic celebrity faces.
