@@ -7,7 +7,7 @@ Built and trained a Variational Autoencoder (VAE) on the CelebA dataset to gener
 In this project, I designed and trained a Variational Autoencoder (VAE) using the CelebA (Celebrity Faces) dataset to generate realistic human faces. The goal was to learn a meaningful latent representation of facial features and enable the generation of new, high-quality synthetic faces that resemble real celebrities.
 
 **Key Contributions:**
-	- Preprocessed and Augmented the CelebA Dataset: Cleaned and normalized over 200,000 celebrity images, resized them to a suitable resolution for training.
+- Preprocessed and Augmented the CelebA Dataset: Cleaned and normalized over 200,000 celebrity images, resized them to a suitable resolution for training.
 	
 **•Built and Trained a VAE Architecture:**	
 	• Implemented encoder-decoder networks using Convolutional Neural Networks (CNNs) in TensorFlow/Keras/PyTorch.
