@@ -1,14 +1,14 @@
 # Image-Generation-using-Variational-Auto-Encoder-VAE:
 Built and trained a Variational Autoencoder (VAE) on the CelebA dataset to generate realistic celebrity faces. Used a CNN-based encoder-decoder, KL divergence, and reconstruction loss to learn facial representations. Explored latent space interpolation for smooth feature transitions.
 
-##Variational Autoencoder for Celebrity Face Generation
+#### Variational Autoencoder for Celebrity Face Generation**
 
-###Project Overview:
+### Project Overview:
 In this project, I designed and trained a Variational Autoencoder (VAE) using the CelebA (Celebrity Faces) dataset to generate realistic human faces. The goal was to learn a meaningful latent representation of facial features and enable the generation of new, high-quality synthetic faces that resemble real celebrities.
 
-###Key Contributions:
+### Key Contributions:
 	•	Preprocessed and Augmented the CelebA Dataset: Cleaned and normalized over 200,000 celebrity images, resized them to a suitable resolution for training.
-**	•	Built and Trained a VAE Architecture:**	
+**•	Built and Trained a VAE Architecture:**	
       •	Implemented encoder-decoder networks using Convolutional Neural Networks (CNNs) in TensorFlow/Keras/PyTorch.
 	    •	Utilized a latent space bottleneck with mean and variance estimation for probabilistic encoding.
 	•	Trained the Model for High-Quality Face Generation:
